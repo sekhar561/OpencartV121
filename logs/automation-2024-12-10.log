@@ -1,0 +1,29 @@
+11:15:53.511 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+11:18:01.101 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+11:18:24.094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+11:18:48.659 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+11:18:48.910 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+11:18:49.383 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+11:18:50.884 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+11:18:52.098 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+11:18:52.858 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+11:22:44.709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+11:24:32.020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\src\test\java\testCases\testng.xml
+
+11:27:25.715 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+11:27:37.663 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******
+11:31:04.089 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+11:31:20.926 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******

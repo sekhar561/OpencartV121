@@ -1,0 +1,12 @@
+20:25:33.781 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:25:33.846 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:25:34.966 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:25:37.345 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:25:39.299 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+20:25:39.888 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+20:55:46.467 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:55:46.528 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:55:47.245 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:55:49.828 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:55:51.177 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+20:55:52.747 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******

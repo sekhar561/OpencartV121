@@ -1,0 +1,9 @@
+08:30:01.782 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+08:30:01.946 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+08:30:02.514 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+08:30:04.573 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+08:30:05.444 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+08:30:05.966 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+08:30:16.306 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******
+08:30:36.194 [main] INFO  testCases.TC003_LoginDDT - *****Started TC003_LoginDDT********
+08:30:38.730 [main] INFO  testCases.TC003_LoginDDT - *****Started TC003_LoginDDT********

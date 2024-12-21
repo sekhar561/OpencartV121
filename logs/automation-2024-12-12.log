@@ -1,0 +1,57 @@
+14:00:23.715 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\grouping.xml
+
+14:00:51.701 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+14:00:52.000 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+14:00:52.564 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+14:00:53.992 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+14:00:55.363 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+14:00:56.355 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+14:01:09.281 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******
+14:02:44.601 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\grouping.xml
+
+14:03:07.153 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+14:03:07.188 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+14:03:07.337 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+14:03:09.674 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+14:03:10.750 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+14:03:11.590 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+14:03:22.128 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******
+14:05:06.854 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\grouping.xml
+
+14:05:32.030 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+14:05:32.088 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+14:05:32.284 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+14:05:34.764 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+14:05:35.821 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+14:05:36.819 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+14:05:47.319 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******
+14:13:51.618 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+14:14:03.010 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******
+20:55:38.532 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\grouping.xml
+
+20:56:03.161 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:56:03.363 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:56:03.792 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:56:04.811 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:56:05.978 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+20:56:06.982 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+20:56:19.316 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******
+21:27:53.370 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+21:32:00.159 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+21:33:29.069 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+21:33:50.214 [main] INFO  testCases.TC003_LoginDDT - *****Started TC003_LoginDDT********
+21:33:53.870 [main] INFO  testCases.TC003_LoginDDT - *****Started TC003_LoginDDT********
+21:34:16.079 [main] INFO  testCases.TC003_LoginDDT - *****Started TC003_LoginDDT********
+21:34:19.744 [main] INFO  testCases.TC003_LoginDDT - *****Started TC003_LoginDDT********

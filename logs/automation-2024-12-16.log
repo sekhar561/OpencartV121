@@ -1,0 +1,92 @@
+06:35:51.669 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+06:37:10.489 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+06:38:50.454 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+06:39:32.635 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:39:33.809 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:39:38.631 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+06:39:44.908 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+06:39:47.911 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+06:39:48.922 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+06:44:43.065 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+06:44:43.714 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:44:43.738 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:44:43.738 [main] ERROR testCases.TC001_RegistrationTest - Test Failed...
+06:45:58.075 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+06:45:58.676 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:45:58.717 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:45:58.718 [main] ERROR testCases.TC001_RegistrationTest - Test Failed...
+06:48:36.681 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+06:48:36.894 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:48:36.934 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:48:36.935 [TestNG-tests-1] ERROR testCases.TC001_RegistrationTest - Test Failed...
+06:48:37.003 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:48:37.006 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:48:37.007 [TestNG-tests-2] ERROR testCases.TC001_RegistrationTest - Test Failed...
+06:48:37.008 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:48:37.009 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:48:37.011 [TestNG-tests-3] ERROR testCases.TC001_RegistrationTest - Test Failed...
+06:49:25.920 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+06:49:45.865 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:49:45.919 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:49:46.050 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+06:49:48.329 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+06:49:48.877 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+06:49:49.477 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+06:50:06.415 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:50:06.416 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:50:06.620 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+06:50:07.429 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+06:50:08.194 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+06:50:09.148 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+06:50:54.268 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+06:51:18.979 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:51:18.979 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:51:19.029 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:51:19.029 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:51:19.611 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+06:51:19.737 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+06:51:40.052 [TestNG-tests-1] ERROR testCases.TC001_RegistrationTest - Test Failed...
+06:51:59.963 [TestNG-tests-2] ERROR testCases.TC001_RegistrationTest - Test Failed...
+06:53:15.153 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:53:15.154 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:53:34.057 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+06:53:47.669 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+06:54:03.878 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+06:54:09.896 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+06:54:09.897 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+06:54:10.655 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+06:54:12.499 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+06:54:13.762 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+06:54:14.414 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+06:54:18.850 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+06:54:36.162 [main] ERROR org.testng.reporters.jq.Main - C:\Users\sri\eclipse-workspace\OpencartV121\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\sri\eclipse-workspace\OpencartV121\test-output\jquery-3.6.0.min.js
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Files.java:3160) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.generateReports(TestNG.java:1160) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1085) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]

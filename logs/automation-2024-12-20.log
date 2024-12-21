@@ -1,0 +1,78 @@
+20:11:03.074 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:11:03.191 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:11:03.357 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:11:11.749 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:11:12.924 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+20:11:13.612 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+20:13:28.824 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:13:28.910 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:13:29.021 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:13:33.289 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:13:53.451 [TestNG-tests-1] ERROR testCases.TC001_RegistrationTest - Test Failed...
+20:15:02.505 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:15:02.508 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:18:02.540 [TestNG-tests-3] ERROR testCases.TC001_RegistrationTest - Test Failed...
+20:26:14.224 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:26:14.224 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:26:14.224 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:26:14.510 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:26:14.510 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:26:14.510 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:26:17.389 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:26:17.700 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:26:17.931 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:26:21.214 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:26:21.252 [TestNG-tests-2] ERROR testCases.TC001_RegistrationTest - Test Failed...
+20:26:21.252 [TestNG-tests-3] ERROR testCases.TC001_RegistrationTest - Test Failed...
+20:26:31.274 [TestNG-tests-1] ERROR testCases.TC001_RegistrationTest - Test Failed...
+20:29:08.131 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:29:08.266 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:29:08.491 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:29:11.191 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:29:18.672 [TestNG-tests-1] ERROR testCases.TC001_RegistrationTest - Test Failed...
+20:29:19.190 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:29:19.193 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:29:19.473 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:29:26.008 [TestNG-tests-3] ERROR testCases.TC001_RegistrationTest - Test Failed...
+20:29:41.569 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:29:41.572 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:29:42.129 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:29:43.791 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:29:44.962 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+20:29:45.767 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+20:30:47.088 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:30:47.153 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:30:47.270 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:30:48.471 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:30:49.802 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+20:30:50.626 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+20:31:01.286 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******
+20:32:27.729 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:32:27.787 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:32:27.980 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:32:30.231 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:32:31.063 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+20:32:31.620 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+20:32:50.324 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******
+20:33:38.621 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\grouping.xml
+
+20:33:48.199 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:33:48.260 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:33:48.401 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:33:49.568 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:33:50.890 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+20:33:51.672 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+20:34:01.506 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******
+20:35:13.114 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sri\eclipse-workspace\OpencartV121\master.xml
+
+20:35:22.653 [main] INFO  testCases.TC001_RegistrationTest - *****Started TC001_RegistrationTest ******
+20:35:22.698 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the MyAccount Link******
+20:35:22.913 [main] INFO  testCases.TC001_RegistrationTest - *****Clicked the Register Link ******
+20:35:24.739 [main] INFO  testCases.TC001_RegistrationTest - *****Providing the Customer details  ******
+20:35:25.878 [main] INFO  testCases.TC001_RegistrationTest - *****Here Submitting the customer details ******
+20:35:26.562 [main] INFO  testCases.TC001_RegistrationTest - *****Finished TC001_RegistrationTest ******
+20:35:37.689 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest ******
+20:35:56.597 [main] INFO  testCases.TC003_LoginDDT - *****Started TC003_LoginDDT********
+20:35:59.241 [main] INFO  testCases.TC003_LoginDDT - *****Started TC003_LoginDDT********
